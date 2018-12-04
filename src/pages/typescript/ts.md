@@ -4,8 +4,6 @@ date: '2015-05-06T23:46:37.121Z'
 spoiler: There’s a twist at the end.
 ---
 
-# typesafe-actions
-
 I need to use it more, it is actually a very good hepler library
 
 Espesially stuff like `ActionType`

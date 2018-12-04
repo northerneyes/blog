@@ -26,7 +26,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        <p>
+        <p style={{ maxWidth: 310 }}>
           Personal blog by{' '}
           <a href="https://twitter.com/_georgebk">George Bukhanov</a>.
           <br />I write some stuff about programming.

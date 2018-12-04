@@ -31,7 +31,6 @@ pre[class*='language-'],
 /* Code blocks */
 pre[class*='language-'] {
   border-radius: 10px;
-  margin: 1.75rem 0;
   overflow: auto;
   padding: 1em;
 }
@@ -79,7 +78,6 @@ code[class*='language-'] ::selection {
 
 .token.comment {
   color: rgb(99, 119, 119);
-  font-style: italic;
 }
 
 .token.string,
